@@ -1,2 +1,2 @@
-# laravel_swagger_setup_files
-The 4 files needed to publish swagger docs for laravel 
+# Laravel Swagger Setup 
+This repository contains the 4 files needed to publish swagger documentation for any laravel project. Follow the steps from the medium posts. Copy the files to app/Http/Swagger/swagger_models/settings/ folder and then run php artisan l5-swagger:generate. This setups the basic files for your API Documentation. The full instruction is available on the medium post https://medium.com/@josephjoseph_85601/b5ec24ba285e 
